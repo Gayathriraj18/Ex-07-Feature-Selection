@@ -19,8 +19,8 @@ Save the data to the file
 
 # CODE :
 ```
-Developed By: THENMOZHI P
-Reg.No: 212221230116
+Developed By: GAYATHRI A
+Reg.No: 212221230028
 BOSTON DATASET:
 from sklearn.datasets import load_boston
 import pandas as pd
