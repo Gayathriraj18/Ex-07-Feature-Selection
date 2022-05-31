@@ -123,7 +123,14 @@ sn.pairplot(boston[['CRIM','RM','PTRATIO','LSTAT']])
 
 
 # OUTPUT :
-
+![a1](https://user-images.githubusercontent.com/94154854/171089273-79bbee42-7f08-46e1-bd30-cc936f4b6383.png)
+![a2](https://user-images.githubusercontent.com/94154854/171089294-9aac1a87-b6ab-4693-88d3-d541dbdabedb.png)
+![a3](https://user-images.githubusercontent.com/94154854/171089312-368a6bd6-63da-48a4-bbe0-bd82d37cb618.png)
+![a4](https://user-images.githubusercontent.com/94154854/171089332-8efbd06a-b236-421e-af4b-1dcad7708c4a.png)
+![a5](https://user-images.githubusercontent.com/94154854/171089354-c667b358-9c78-49a7-a7a3-7fc745a8dab2.png)
+![a6](https://user-images.githubusercontent.com/94154854/171089366-b0d2be8f-5eb2-43f0-ac27-817c7d7e466e.png)
+![b](https://user-images.githubusercontent.com/94154854/171089383-fa377333-d7e1-4688-b662-007dfd52e5ac.png)
+![c](https://user-images.githubusercontent.com/94154854/171089406-ee318f77-d3d9-4437-bd22-3848089acef4.png)
 
 # RESULT :
 Various feature selection techniques have been performed on a given dataset successfully.
